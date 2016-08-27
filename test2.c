@@ -1,7 +1,9 @@
 #include <stdio.h>
-// test1.c
+
+// test2.c
 
 int main()
 {
-  printf("hello");
+	printf("test2");
 }
+
